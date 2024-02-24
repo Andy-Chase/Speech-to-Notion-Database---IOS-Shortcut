@@ -4,8 +4,6 @@
 
 ## Overview
 
-This iOS Shortcut  real game-changer for recording voice notes, transcribing them into text using OpenAI's Whisper API, and then neatly tucking them away in your Notion database. It's all about boosting your productivity and making note-taking as hassle-free as can be, letting you categorise your notes for better organisation right from the get-go.
-
 This iOS Shortcut provides a seamless method for recording voice notes, transcribing them into text using OpenAI's Whisper API, and storing the transcribed notes in a Notion database. It's designed to enhance productivity and note-taking efficiency, allowing users to categorise their notes for better organisation directly through the Shortcut.
 
 ## Features
