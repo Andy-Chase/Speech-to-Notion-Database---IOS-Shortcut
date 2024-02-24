@@ -1,3 +1,5 @@
+![Banner for Voice Note to Notion Shortcut](VoiceShortcut.png)
+
 # Voice Note to Notion Shortcut
 
 ## Overview
